@@ -1,0 +1,8 @@
+Data;Categoria;Descrizione;Importo
+9/1/2021;Viaggio;Trasferta a Miami; 3000
+8/22/2021; Vitto;Pranzo di Lavoro; 100
+3/15/2020; Altro;Mouse; 15.00
+8/12/2021;Alloggio; Hotel a Roma 1 settimana;1500
+9/02/2021;Altro;Affitto sala conferenze; 555.55
+8/12/2021; Viaggio;Treno per Roma; 50.10
+9/9/2021;Viaggio; Viaggio In prima classe per toronto; 2870

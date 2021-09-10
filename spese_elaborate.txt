@@ -1,0 +1,8 @@
+Data;Categoria;Stato;LvlApprov;ImportoRimborsato
+9/1/2021;Viaggio;Trasferta a Miami; RESPINTA;-;-
+8/22/2021;Vitto;Pranzo di Lavoro; APPROVATA;Manager;70
+3/15/2020;Altro;Mouse; APPROVATA;Manager;1.5
+8/12/2021;Alloggio; Hotel a Roma 1 settimana; APPROVATA;CEO;1500
+9/2/2021;Altro;Affitto sala conferenze; APPROVATA;Operational Manager;55.555
+8/12/2021;Viaggio;Treno per Roma; APPROVATA;Manager;100.1
+9/9/2021;Viaggio; Viaggio In prima classe per toronto; RESPINTA;-;-
